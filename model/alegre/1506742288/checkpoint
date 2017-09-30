@@ -1,0 +1,2 @@
+model_checkpoint_path: "/media/ccx/faa8fb7c-c759-4e71-8525-d0d7a7a6dbba3/work/lang_detect/cnn-ld-tf_twitter/model/alegre/1506742288/model.ckpt-140"
+all_model_checkpoint_paths: "/media/ccx/faa8fb7c-c759-4e71-8525-d0d7a7a6dbba3/work/lang_detect/cnn-ld-tf_twitter/model/alegre/1506742288/model.ckpt-140"
